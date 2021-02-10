@@ -12,7 +12,7 @@ checkCommand: function (message, channel, tags, client)
 
         if(message.startsWith('!commands'))
         {
-            runCommandsList();
+            runCommandsList(); //
         }
     }
 };
