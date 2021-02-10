@@ -105,3 +105,4 @@ dist
 
 #environment files
 .env
+./.env
